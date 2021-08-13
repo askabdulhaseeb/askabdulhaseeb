@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askabdulhaseeb
-- 📫 How to reach me out (Whatsapp): +92 345 1021122
+- 📫 Reach me out (Whatsapp): +92 345 1021122
 - 👀 I’m Mobile, web, desktop App Developer
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter Projects
