@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @askabdulhaseeb<br>📫 Reach me out (Whatsapp): +92 345 1021122<br>👀 I’m a Mobile, web, and desktop App Developer<br>🌱 I’m currently working on Flutter, Blockchain, iOS<br>💞️ I’m looking to collaborate on Flutter Projects
 
-WakaTime from 01-08-22 till today
+WakaTime from 01-08-22 till today<br>
 [![wakatime](https://wakatime.com/badge/user/a62cfb23-ccbd-4bfc-b190-5dd5c13cd292.svg)](https://wakatime.com/@a62cfb23-ccbd-4bfc-b190-5dd5c13cd292)
 
 ## 🌐 Socials:
