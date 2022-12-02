@@ -4,6 +4,8 @@
 WakaTime from 01-08-22 till today<br>
 [![wakatime](https://wakatime.com/badge/user/a62cfb23-ccbd-4bfc-b190-5dd5c13cd292.svg)](https://wakatime.com/@a62cfb23-ccbd-4bfc-b190-5dd5c13cd292)
 
+<a href="https://stardev.io/developers/askabdulhaseeb"><img alt="Check out askabdulhaseeb's profile on stardev.io" src="https://stardev.io/developers/askabdulhaseeb/badge/languages/locality.svg" /></a>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rana.abdulhaseeb.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/r_abdulhaseeb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-haseeb-073682183/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18056598/haseeb-bin-nasir) 
 
